@@ -14,6 +14,8 @@ public class Class1 {
 		
 		//Remoteus Changeus
 		
+		//another remote action
+		
 	}
 	
 
